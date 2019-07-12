@@ -1,4 +1,4 @@
-#Smurf-tastic Memory Card Game
+# __Smurf-tastic Memory Card Game__
 
 If you enjoy memory card games and The Smurfs, then you will enjoy this Smurf-tastic clickable memory game. This app was built with React to demonstrate the use of React Components.
 
