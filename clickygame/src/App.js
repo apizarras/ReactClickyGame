@@ -48,7 +48,7 @@ class App extends Component {
     return (
       <div>
         <header className="App-header">
-          <h1 className="App-title">Smurf-tastic Memory Game</h1>
+          <h1 className="App-title title-text">Smurf-tastic Memory Game</h1>
         </header>
         <h3 className="App-intro center">
           <strong>Click on a unique image to earn points, clicking on the same image more than once will end the game!</strong> 
