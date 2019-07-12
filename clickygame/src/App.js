@@ -16,7 +16,6 @@ class App extends Component {
     message: "",
     topScore: 0,
     cardsClicked: [],
-    random: 0
   };
 
   clickCard = id => {
@@ -49,7 +48,7 @@ class App extends Component {
     return (
       <div>
         <header className="App-header">
-          <h1 className="App-title">Smurf-tatstic Memory Game</h1>
+          <h1 className="App-title">Smurf-tastic Memory Game</h1>
         </header>
         <h3 className="App-intro center">
           <strong>Click on a unique image to earn points, clicking on the same image more than once will end the game!</strong> 
@@ -57,7 +56,6 @@ class App extends Component {
           <p className="message"><strong>{this.state.message}</strong></p>
         </h3>
       <Wrapper>
-        <Title>Smurf-tatstic Memory Game</Title>
         {this.state.smurfs.map(smurf=> (
           <SmurfCard
             clickCard={this.clickCard}
