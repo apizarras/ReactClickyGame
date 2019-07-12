@@ -2,15 +2,11 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
 .App-header {
-  background-color: #365491;
-  min-height: 30vh;
+  background-image: url("./img/smurfvillage.PNG");
+  background-image: center;
+  background-size: cover;
+  min-height: 60vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -25,6 +21,14 @@
 
 .center {
   text-align: center
+}
+
+.title-text {
+  font-size: 5vw;
+  background: rgb(80, 78, 78);
+  color: white;
+  border-radius: 40px;
+  padding: 2vw
 }
 
 @keyframes App-logo-spin {
