@@ -1,3 +1,9 @@
+# __Smurf-tastic Memory Card Game__
+
+If you enjoy memory card games and The Smurfs, then you will enjoy this Smurf-tastic clickable memory game. This app was built with React to demonstrate the use of React Components.
+
+![Smurf-tastic Game](./src/img/readmeimg.PNG "Smurf-tastic Game")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -43,26 +49,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Deployed Link
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+This app had been deployed via Netlify: https://hardcore-neumann-5a8817.netlify.com/
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
