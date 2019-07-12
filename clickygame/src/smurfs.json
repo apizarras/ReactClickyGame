@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "PainterSmurf",
+      "image": "https://smurfs.blob.core.windows.net/media/22681/painter.png",
+      "occupation": "Artist",
+      "location": "Smurf Village, Earth"
+    },
+    {
+      "id": 2,
+      "name": "Papa Smurf",
+      "image": "https://smurfs.blob.core.windows.net/media/22682/papa.png",
+      "occupation": "Head Smurf/Father",
+      "location": "Smurf Village, Earth"
+    },
+    {
+      "id": 3,
+      "name": "Poet Smurf",
+      "image": "https://smurfs.blob.core.windows.net/media/22683/poet.png",
+      "occupation": "Author",
+      "location": "Smurf Village, Earth"
+    },
+    {
+      "id": 4,
+      "name": "Smurfette",
+      "image": "https://smurfs.blob.core.windows.net/media/22684/smurfette.png",
+      "occupation": "Smurf Man Eater",
+      "location": "Smurf Village, Earth"
+    },
+    {
+      "id": 5,
+      "name": "Vanity Smurf",
+      "image": "https://smurfs.blob.core.windows.net/media/22685/vanity.png",
+      "occupation": "Male Model",
+      "location": "Smurf Village, Earth"
+    },
+    {
+      "id": 6,
+      "name": "Wild Smurf",
+      "image": "https://smurfs.blob.core.windows.net/media/22686/wild.png",
+      "occupation": "Livin' Life",
+      "location": "Smurf Village, Earth"
+    },
+    {
+      "id": 7,
+      "name": "Smurfwillow",
+      "image": "https://smurfs.blob.core.windows.net/media/109963/saule.png",
+      "occupation": "Girl Smurf Leader",
+      "location": "Smurf Village, Earth"
+    },
+    {
+      "id": 8,
+      "name": "Jokey Smurf",
+      "image": "https://smurfs.blob.core.windows.net/media/22680/jokey2.png",
+      "occupation": "Prankster",
+      "location": "Smurf Village, Earth"
+    },
+    {
+      "id": 9,
+      "name": "Lazy Smurf",
+      "image": "https://smurfs.blob.core.windows.net/media/22679/lazy.png",
+      "occupation": "Procrastinator",
+      "location": "Smurf Village, Earth"
+    },
+    {
+      "id": 10,
+      "name": "Hefty Smurf",
+      "image": "https://smurfs.blob.core.windows.net/media/22678/hefty.png",
+      "occupation": "Body Builder",
+      "location": "Smurf Village, Earth"
+    },
+    {
+      "id": 11,
+      "name": "Harmony Smurf",
+      "image": "https://smurfs.blob.core.windows.net/media/22677/harmony.png",
+      "occupation": "Musician",
+      "location": "Smurf Village, Earth"
+    },
+    {
+      "id": 12,
+      "name": "Handy Smurf",
+      "image": "https://smurfs.blob.core.windows.net/media/22676/handy.png",
+      "occupation": "Carpenter",
+      "location": "Smurf Village, Earth"
+    }
+  ]
